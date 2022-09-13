@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @kiranvutti
-- 👀 capture moments ...
-- 🌱 codding battle!!! ...
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first and paragraph.</p>
+
+</body>
